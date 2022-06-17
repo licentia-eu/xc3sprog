@@ -1,7 +1,7 @@
 #include "iomatrixcreator.h"
 
 IOMatrixCreator::IOMatrixCreator()
- : IOWiringPi(4, 17, 22, 27) 
+ : IOWiringPi(24, 23, 22, 17)
 {
 }
 
